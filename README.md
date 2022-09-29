@@ -10,11 +10,11 @@
   
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/gantavyamalviya" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ <a href="https://github.com/codemistic" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/gantavyamalviya/HacktoberFest/pulls"><img src="https://img.shields.io/github/issues-pr/gantavyamalviya/hacktoberfest" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/gantavyamalviya/hacktoberfest/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gantavyamalviya/hacktoberfest?color=2b9348"></a>
-<a href="https://github.com/gantavyamalviya/hacktoberfest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/gantavyamalviya/hacktoberfest?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/codemistic/HacktoberFest/pulls"><img src="https://img.shields.io/github/issues-pr/codemistic/hacktoberfest" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/codemistic/hacktoberfest/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codemistic/hacktoberfest?color=2b9348"></a>
+<a href="https://github.com/codemistic/hacktoberfest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/codemistic/hacktoberfest?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
@@ -26,15 +26,15 @@
 > Upload your code in this repository to particular section if folder is not present then create folder.
 > some more repos for contribution
 
-| Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks                                                                                                                                                             |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [General Projects](https://github.com/gantavyamalviya/HacktoberFest/tree/main/General%20Projects)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/HacktoberFest/tree/main/General%20Projects?color=pink&logo=github)](https://github.com/gantavyamalviya/HacktoberFest/tree/main/General%20Projects/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/HacktoberFest/tree/main/General%20Projects?style=social&logo=github)](https://github.com/gantavyamalviya/HacktoberFest/tree/main/General%20Projects/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/HacktoberFest/tree/main/General%20Projects?logo=git)](https://github.com/gantavyamalviya/HacktoberFest/tree/main/General%20Projects/network)                         |
-| [Web Development](https://github.com/gantavyamalviya/HacktoberFest/tree/main/Web%20Development)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
-| [Web 3](https://github.com/gantavyamalviya/HacktoberFest/tree/main/Web3)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
-| [Non-Code](https://github.com/gantavyamalviya/HacktoberFest/tree/main/Non%20Code)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
-| [C++](https://github.com/gantavyamalviya/HacktoberFest/tree/main/CPP)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
-| [JAVA](https://github.com/gantavyamalviya/HacktoberFest/tree/main/Java)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
-| [Python](https://github.com/gantavyamalviya/HacktoberFest/tree/main/Python)         | [![GitHub issues](https://img.shields.io/github/issues/gantavyamalviya/cpp?color=pink&logo=github)](https://github.com/gantavyamalviya/cpp/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/gantavyamalviya/cpp?style=social&logo=github)](https://github.com/keshavsingh4522/Python/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/gantavyamalviya/cpp?logo=git)](https://github.com/gantavyamalviya/cpp/network)                         |
+| Folders                                                     |
+| ----------------------------------------------------------- |
+| [General Projects](https://github.com/codemistic/HacktoberFest/tree/main/General%20Projects)         |       
+| [Web Development](https://github.com/codemistic/HacktoberFest/tree/main/Web%20Development)         | 
+| [Web 3](https://github.com/codemistic/HacktoberFest/tree/main/Web3)         | 
+| [Non-Code](https://github.com/codemistic/HacktoberFest/tree/main/Non%20Code)         | 
+| [C++](https://github.com/codemistic/HacktoberFest/tree/main/CPP)         | 
+| [JAVA](https://github.com/codemistic/HacktoberFest/tree/main/Java)         | 
+| [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |         
 
 
 ## Rules
