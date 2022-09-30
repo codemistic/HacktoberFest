@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Thank you for contributing to Codemistic. We love you and your Issue ❤️🎉 . Your issues, really help us with our project... Waiting for your next contibution to codemistic ."
+        pr-message: "Thank you for contributing to Codemistic. We love you and your PR ❤️🎉 . Waiting for you to contribute again to Codemistic."
