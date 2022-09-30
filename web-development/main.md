@@ -2,7 +2,8 @@
 #### You can create an issue and choose your part and work on that
 
 - You Must Have to Host the website.
-- You can use any of the Hosting Plateform like : Heroku, Netlify, AWS etc.
+- You can choose any tech stack and work on it.
+- Make sure you create an issue labelling hacktoberfest before starting working on the project.
 
 The website will be hosted on GitHub. 
 
