@@ -6,11 +6,11 @@
 
 <h1 align="center"> HacktoberFest 2022 🎉</h1>
 
-<h1 align="center"> 
+<!-- <h1 align="center"> 
 
 A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Community](https://github.com/collab-community)
 
-</h1>
+</h1> -->
 
 
 
