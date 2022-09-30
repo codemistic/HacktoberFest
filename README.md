@@ -34,7 +34,15 @@
 | [Non-Code](https://github.com/codemistic/HacktoberFest/tree/main/Non%20Code)         | 
 | [C++](https://github.com/codemistic/HacktoberFest/tree/main/CPP)         | 
 | [JAVA](https://github.com/codemistic/HacktoberFest/tree/main/Java)         | 
-| [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |         
+| [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |
+
+# Some non code projects you can work upon :smile:
+
+1. [journey book](https://github.com/collab-community/journey-book) :book:
+
+![Capture](https://user-images.githubusercontent.com/96974600/193237041-c15f9582-60d3-4b20-a1a2-67b64ca3ef4b.PNG)
+
+
 
 
 ## Rules
