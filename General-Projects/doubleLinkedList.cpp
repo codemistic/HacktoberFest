@@ -83,6 +83,6 @@ int main() {
 	InsertAtTail(8); 
     Print(); ReversePrint();
 
-	printf("Che")
+	printf("End\n");
 	
 }
