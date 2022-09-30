@@ -8,7 +8,7 @@
 
 <h1 align="center"> 
 
-A Collaboration [Codemistic](https://github.com/codemistic) × [Collab-Community](https://github.com/collab-community)
+A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Community](https://github.com/collab-community)
 
 </h1>
 
