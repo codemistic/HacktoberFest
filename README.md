@@ -6,11 +6,11 @@
 
 <h1 align="center"> HacktoberFest 2022 🎉</h1>
 
-<!-- <h1 align="center"> 
+<h1 align="center"> 
 
 A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Community](https://github.com/collab-community)
 
-</h1> -->
+</h1>
 
 
 
@@ -43,6 +43,8 @@ A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Commun
 | [C++](https://github.com/codemistic/HacktoberFest/tree/main/CPP)         | 
 | [JAVA](https://github.com/codemistic/HacktoberFest/tree/main/Java)         | 
 | [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |
+
+##### Note : Kindly refer to [contributing guidelines](https://github.com/codemistic/HacktoberFest/blob/main/CONTRIBUTING_GUIDELINES.md) before contributing to this repository
 
 
 
