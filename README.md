@@ -11,55 +11,23 @@
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/codemistic" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-
 <a href="https://github.com/codemistic/HacktoberFest/pulls"><img src="https://img.shields.io/github/issues-pr/codemistic/hacktoberfest" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/codemistic/hacktoberfest/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codemistic/hacktoberfest?color=2b9348"></a>
 <a href="https://github.com/codemistic/hacktoberfest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/codemistic/hacktoberfest?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
+<br/>
+> Here are some repositories for making your contribution in open-source
 
-📢 **Register [here](https://hacktoberfest.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-
-> Upload your code in this repository to particular section if folder is not present then create folder.
-> some more repos for contribution
-
-| Folders                                                     |
-| ----------------------------------------------------------- |
-| [General Projects](https://github.com/codemistic/HacktoberFest/tree/main/General%20Projects)         |       
-| [Web Development](https://github.com/codemistic/HacktoberFest/tree/main/Web%20Development)         | 
-| [Web 3](https://github.com/codemistic/HacktoberFest/tree/main/Web3)         | 
-| [Non-Code](https://github.com/codemistic/HacktoberFest/tree/main/Non-Code)         | 
-| [C++](https://github.com/codemistic/HacktoberFest/tree/main/CPP)         | 
-| [JAVA](https://github.com/codemistic/HacktoberFest/tree/main/Java)         | 
-| [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |
+| Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks                                                                                                                                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DSA (C++/Java/Python)](https://github.com/codemistic/Data-Structures-and-Algorithms)         | [![GitHub issues](https://img.shields.io/github/issues/codemistic/Data-Structures-and-Algorithms?color=pink&logo=github)](https://github.com/codemistic/Data-Structures-and-Algorithms/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/codemistic/Data-Structures-and-Algorithms?style=social&logo=github)](https://github.com/codemistic/Data-Structures-and-Algorithms/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/codemistic/Data-Structures-and-Algorithmslogo=git)](https://github.com/codemistic/Data-Structures-and-Algorithms/network)                         |
 
 ##### Note : Kindly refer to [contributing guidelines](https://github.com/codemistic/HacktoberFest/blob/main/CONTRIBUTING_GUIDELINES.md) before contributing to this repository
 
 
-
-
-
-
-
-
-
-## Rules
-
-- Don't use filthy words and be welcome for beginners and other people in this community.
-
----
-
-## Github Contribution Rules
-- Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
-- The pull request must contain commits you made yourself.
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-- This year, the first 40,000 participants can earn a T-shirt.
----
 
 Steps for adding your name below
 
@@ -71,7 +39,7 @@ Steps for adding your name below
 
 
 
-## Maintainers
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
