@@ -1,3 +1,7 @@
+<div align="centre">
+    <b>dont contribute(or create PR's) in this repo, contribute only in below mentioned repo</b>
+</div>
+<br/>
 <p align="center">
     <a href="https://hacktoberfest.com/">
         <img src="https://user-images.githubusercontent.com/39916680/193060738-1facbd63-c6a3-4f84-9473-f9d7b2ee7f8c.png" width="70%">
