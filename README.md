@@ -6,14 +6,6 @@
 
 <h1 align="center"> HacktoberFest 2022 🎉</h1>
 
-<h1 align="center"> 
-
-A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Community](https://github.com/collab-community)
-
-</h1>
-
-
-
 <div align="center">
   
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
@@ -39,7 +31,7 @@ A Collaboration of [Codemistic](https://github.com/codemistic) × [Collab-Commun
 | [General Projects](https://github.com/codemistic/HacktoberFest/tree/main/General%20Projects)         |       
 | [Web Development](https://github.com/codemistic/HacktoberFest/tree/main/Web%20Development)         | 
 | [Web 3](https://github.com/codemistic/HacktoberFest/tree/main/Web3)         | 
-| [Non-Code](https://github.com/codemistic/HacktoberFest/tree/main/Non%20Code)         | 
+| [Non-Code](https://github.com/codemistic/HacktoberFest/tree/main/Non-Code)         | 
 | [C++](https://github.com/codemistic/HacktoberFest/tree/main/CPP)         | 
 | [JAVA](https://github.com/codemistic/HacktoberFest/tree/main/Java)         | 
 | [Python](https://github.com/codemistic/HacktoberFest/tree/main/Python)         |
