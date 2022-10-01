@@ -65,7 +65,7 @@ Steps for adding your name below
     
 <td align="center"><a href="https://github.com/404Nikhil"><kbd><img src="https://avatars3.githubusercontent.com/404Nikhil?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Nikhil Dhariwal</b></sub></a><br /><a href="https://github.com/404Nikhil/" title="Code"> :computer: </a> </td>
     
-<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/" title="Code"> :computer: </a> </td>
+
     
 </tr>
 
@@ -83,13 +83,15 @@ Steps for adding your name below
     
 <td align="center"><a href="https://github.com/Str4nge"><kbd><img src="https://avatars3.githubusercontent.com/Str4nge?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vishal Sharma</b></sub></a><br /><a href="https://github.com/Str4nge/" title="Code"> :computer: </a> </td>
     
-<td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
+
     
 </tr>
     
 <td align="center"><a href="https://github.com/shashank-iter"><kbd><img src="https://avatars3.githubusercontent.com/shashank-iter?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shashank Pandey</b></sub></a><br /><a href="https://github.com/shashank-iter/" title="Code"> :computer: </a> </td>
     
+<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/" title="Code"> :computer: </a> </td>
 
+<td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
     
 </tr>
  
