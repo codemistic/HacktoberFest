@@ -92,7 +92,7 @@ Steps for adding your name below
 
 <td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
 
-<td align="center"><a href="https://github.com/Eswari-Priya"><kbd><img src="https://avatars3.githubusercontent.com/Eswari-Priya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bhaswati Roy</b></sub></a><br /><a href="https://github.com/Eswari-Priya" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/Eswari-Priya"><kbd><img src="https://avatars3.githubusercontent.com/Eswari-Priya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Eswari Priya</b></sub></a><br /><a href="https://github.com/Eswari-Priya" title="Code"> :computer: </a> </td>
     
 </tr>
  
