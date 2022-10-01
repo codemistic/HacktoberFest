@@ -54,16 +54,45 @@ Steps for adding your name below
 <tr>
 <td align="center"><a href="https://github.com/gantavyamalviya"><kbd><img src="https://avatars3.githubusercontent.com/gantavyamalviya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Gantavya Malviya</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
     
-<td align="center"><a href="https://github.com/adarsh-jaiss"><kbd><img src="https://avatars3.githubusercontent.com/adarsh-jaiss?size=400" width="100px;" alt=""/></kbd><br /><sub><b>adarsh-jaiss</b></sub></a><br /><a href="https://github.com/adarsh-jaiss/hacktoberfest/commits?author=adarsh-jaiss" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/adarsh-jaiss"><kbd><img src="https://avatars3.githubusercontent.com/adarsh-jaiss?size=400" width="100px;" alt=""/></kbd><br /><sub><b>adarsh-jaiss</b></sub></a><br /><a href="https://github.com/adarsh-jaiss/" title="Code"> :computer: </a> </td>
 
-<td align="center"><a href="https://github.com/weebo-ary"><kbd><img src="https://avatars3.githubusercontent.com/weebo-ary?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aryan Bharadwaj</b></sub></a><br /><a href="https://github.com/weebo-ary/hacktoberfest/commits?author=adarsh-jaiss" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/weebo-ary"><kbd><img src="https://avatars3.githubusercontent.com/weebo-ary?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aryan Bharadwaj</b></sub></a><br /><a href="https://github.com/weebo-ary/" title="Code"> :computer: </a> </td>
     
-<td align="center"><a href="https://github.com/shouryam-kumar"><kbd><img src="https://avatars3.githubusercontent.com/shouryam-kumar?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shouryam Kumar</b></sub></a><br /><a href="https://github.com/shouryam-kumar/hacktoberfest/commits?author=shouryam-kumar" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/shouryam-kumar"><kbd><img src="https://avatars3.githubusercontent.com/shouryam-kumar?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shouryam Kumar</b></sub></a><br /><a href="https://github.com/shouryam-kumar/" title="Code"> :computer: </a> </td>
 
 
-<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/hacktoberfest/commits?author=YashwanthLakkimsetti" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/BhaswatiRoy"><kbd><img src="https://avatars3.githubusercontent.com/BhaswatiRoy?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bhaswati Roy</b></sub></a><br /><a href="https://github.com/BhaswatiRoy/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/404Nikhil"><kbd><img src="https://avatars3.githubusercontent.com/404Nikhil?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Nikhil Dhariwal</b></sub></a><br /><a href="https://github.com/404Nikhil/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/" title="Code"> :computer: </a> </td>
     
 </tr>
+
+ <tr>
+<td align="center"><a href="https://github.com/Arpiiitaaa"><kbd><img src="https://avatars3.githubusercontent.com/Arpiiitaaa?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Arpita Das</b></sub></a><br /><a href="https://github.com/Arpiiitaaa/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/ashu-rb"><kbd><img src="https://avatars3.githubusercontent.com/ashu-rb?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aayush Patel</b></sub></a><br /><a href="https://github.com/ashu-rb/" title="Code"> :computer: </a> </td>
+
+<td align="center"><a href="https://github.com/thekalyan001"><kbd><img src="https://avatars3.githubusercontent.com/thekalyan001?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Kalyan Mishra</b></sub></a><br /><a href="https://github.com/thekalyan001/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/Aakash231217"><kbd><img src="https://avatars3.githubusercontent.com/Aakash231217?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aakash Singh</b></sub></a><br /><a href="https://github.com/Aakash231217/" title="Code"> :computer: </a> </td>
+
+
+<td align="center"><a href="https://github.com/vanshavenger"><kbd><img src="https://avatars3.githubusercontent.com/vanshavenger?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vansh Chopra</b></sub></a><br /><a href="https://github.com/vanshavenger/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/Str4nge"><kbd><img src="https://avatars3.githubusercontent.com/Str4nge?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vishal Sharma</b></sub></a><br /><a href="https://github.com/Str4nge/" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
+    
+</tr>
+    
+<td align="center"><a href="https://github.com/shashank-iter"><kbd><img src="https://avatars3.githubusercontent.com/shashank-iter?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shashank Pandey</b></sub></a><br /><a href="https://github.com/shashank-iter/" title="Code"> :computer: </a> </td>
+    
+
+    
+</tr>
+ 
 </table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
