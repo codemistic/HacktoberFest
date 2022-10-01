@@ -52,7 +52,7 @@ Steps for adding your name below
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/gantavyamalviya"><kbd><img src="https://avatars3.githubusercontent.com/gantavyamalviya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Gantavya Malviya</b></sub></a><br /><a href="https://github.com/gantavyamavliya/hacktoberfest/commits?author=GantavyaMalviya" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/gantavyamalviya"><kbd><img src="https://avatars3.githubusercontent.com/gantavyamalviya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Gantavya Malviya</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
     
 <td align="center"><a href="https://github.com/adarsh-jaiss"><kbd><img src="https://avatars3.githubusercontent.com/adarsh-jaiss?size=400" width="100px;" alt=""/></kbd><br /><sub><b>adarsh-jaiss</b></sub></a><br /><a href="https://github.com/adarsh-jaiss/hacktoberfest/commits?author=adarsh-jaiss" title="Code"> :computer: </a> </td>
 
