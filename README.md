@@ -58,6 +58,8 @@ Steps for adding your name below
     
 <td align="center"><a href="https://github.com/shouryam-kumar"><kbd><img src="https://avatars3.githubusercontent.com/shouryam-kumar?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shouryam Kumar</b></sub></a><br /><a href="https://github.com/shouryam-kumar/hacktoberfest/commits?author=shouryam-kumar" title="Code"> :computer: </a> </td>
 
+
+<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/hacktoberfest/commits?author=YashwanthLakkimsetti" title="Code"> :computer: </a> </td>
     
 </tr>
 </table>
