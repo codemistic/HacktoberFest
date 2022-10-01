@@ -94,10 +94,10 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
     
 </tr>
-</tr>
+
 <td align="center"><a href="https://github.com/prashantkalokhe"><kbd><img src="https://prashantkalokhe.githubusercontent.com/prashantkalokhe?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vishal Sharma</b></sub></a><br /><a href="https://github.com/prashantkalokhe/" title="Code"> :computer: </a> </td
  
-</tr>
+
 </table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
