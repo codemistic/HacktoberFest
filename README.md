@@ -102,6 +102,14 @@ Steps for adding your name below
     
     
 </tr>
+
+
+<td align="center"><a href="https://github.com/mitparmarcse"><kbd><img src="https://avatars3.githubusercontent.com/mitparmarcse?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Mit Parmar</b></sub></a><br /><a href="https://github.com/mitparmarcse/" title="Code"> :computer: </a> </td>
+       
+    
+</tr>
+
+
  
 </table>
 <!-- markdownlint-enable -->
