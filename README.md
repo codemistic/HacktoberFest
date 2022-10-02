@@ -34,6 +34,8 @@
 | [General Projects](https://github.com/codemistic/General-Projects)         | [![GitHub issues](https://img.shields.io/github/issues/codemistic/General-Projects?color=pink&logo=github)](https://github.com/codemistic/General-Projects/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/codemistic/General-Projects?style=social&logo=github)](https://github.com/codemistic/General-Projects/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/codemistic/General-Projects?logo=git)](https://github.com/codemistic/General-Projects/network)                         | [![Contributors](https://img.shields.io/github/contributors/codemistic/General-Projects?color=2b9348)](https://github.com/codemistic/General-Projects/graphs/contributors)                         |
 
 
+Join our telegram group for dicussions : [CodeMistic Coding Community Telegram Link](https://telegram.me/codemistic/)
+
 Steps for adding your name below
 
     1. Fork this repo
