@@ -66,7 +66,6 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/BhaswatiRoy"><kbd><img src="https://avatars3.githubusercontent.com/BhaswatiRoy?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bhaswati Roy</b></sub></a><br /><a href="https://github.com/BhaswatiRoy/" title="Code"> :computer: </a> </td>
     
 <td align="center"><a href="https://github.com/404Nikhil"><kbd><img src="https://avatars3.githubusercontent.com/404Nikhil?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Nikhil Dhariwal</b></sub></a><br /><a href="https://github.com/404Nikhil/" title="Code"> :computer: </a> </td>
-
     
 </tr>
 
@@ -107,6 +106,12 @@ Steps for adding your name below
  <td align="center"><a href="https://github.com/sajjad-njr"><kbd><img src="https://avatars3.githubusercontent.com/sajjad-njr?size=400" width="100px;" alt=""/></kbd>
  <br /><sub><b>Sajjad Rahman</b></sub></a><br /><a href="https://github.com/sajjad-njr" title="Code"> :computer: </a> </td>
 
+</tr>
+
+<tr>
+
+<td align="center"><a href="https://github.com/akshay2742"><kbd><img src="https://avatars.githubusercontent.com/u/43185089?v=4" width="100px;" alt=""/></kbd><br/><sub><b>Akshay Sharma</b></sub></a><br /><a href="https://github.com/akshay2742" title="Code"> :computer: </a> </td>
+    
 </tr>
  
 </table>
