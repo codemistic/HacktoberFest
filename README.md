@@ -98,11 +98,11 @@ Steps for adding your name below
 
 <td align="center"><a href="https://github.com/shekhar10feb"><kbd><img src="https://avatars3.githubusercontent.com/shekhar10feb?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shekhar Ranjan</b></sub></a><br /><a href="https://github.com/shekhar10feb" title="Code"> :computer: </a> </td>
 
-<td align="center"><a href="https://github.com/baibhav-tiwari"><kbd><img src="https://avatars.githubusercontent.com/u/75496387?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Baibhav Tiwari</b></sub></a><br /><a href="https://github.com/baibhav-tiwari" title="Code"> :computer: </a> </td>
-    
-    
+<td align="center"><a href="https://github.com/baibhav-tiwari"><kbd><img src="https://avatars.githubusercontent.com/u/75496387?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Baibhav Tiwari</b></sub></a><br /><a href="https://github.com/baibhav-tiwari" title="Code"> :computer: </a> </td>   
 </tr>
- 
+<tr>
+<td align="center"><a href="https://github.com/shubhrastogi07"><kbd><img src="https://avatars.githubusercontent.com/u/83091167?s=400&u=ebddeab7839df77dba3397efc81093f35685f8d4&v=4" width="100px;" alt=""/></kbd><br /><sub><b>Shubh Rastogi</b></sub></a><br /><a href="https://github.com/shubhrastogi07" title="Code"> :computer: </a> </td> 
+</tr>
 </table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
