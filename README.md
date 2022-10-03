@@ -119,3 +119,87 @@ Contributions of any kind welcome!
 >    NOTE: if you should be on the list of contributors but we forgot you, don't be shy and let us know!
 
 ### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/gantavyamalviya>
+            <img src=https://avatars.githubusercontent.com/u/39916680?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gantavya Malviya/>
+            <br />
+            <sub style="font-size:14px"><b>Gantavya Malviya</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Adarsh-jaiss>
+            <img src=https://avatars.githubusercontent.com/u/96974600?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Adarsh jaiswal/>
+            <br />
+            <sub style="font-size:14px"><b>Adarsh jaiswal</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/weebo-ary>
+            <img src=https://avatars.githubusercontent.com/u/74592979?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aryan Bhardwaj/>
+            <br />
+            <sub style="font-size:14px"><b>Aryan Bhardwaj</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/GeneralChauhan>
+            <img src=https://avatars.githubusercontent.com/u/73732246?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Abhinab Pratap Singh Chauhan/>
+            <br />
+            <sub style="font-size:14px"><b>Abhinab Pratap Singh Chauhan</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/baibhav-tiwari>
+            <img src=https://avatars.githubusercontent.com/u/75496387?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Baibhav Tiwari/>
+            <br />
+            <sub style="font-size:14px"><b>Baibhav Tiwari</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/shekhar10feb>
+            <img src=https://avatars.githubusercontent.com/u/72906055?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Shekhar Ranjan/>
+            <br />
+            <sub style="font-size:14px"><b>Shekhar Ranjan</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/YashwanthLakkimsetti>
+            <img src=https://avatars.githubusercontent.com/u/96442644?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=YashwanthLakkimsetti/>
+            <br />
+            <sub style="font-size:14px"><b>YashwanthLakkimsetti</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/gantavya12>
+            <img src=https://avatars.githubusercontent.com/u/91743053?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=gantavya12/>
+            <br />
+            <sub style="font-size:14px"><b>gantavya12</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/kirang193>
+            <img src=https://avatars.githubusercontent.com/u/94598931?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kirang193/>
+            <br />
+            <sub style="font-size:14px"><b>kirang193</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/sajjad-njr>
+            <img src=https://avatars.githubusercontent.com/u/67529599?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=sajjad rahman/>
+            <br />
+            <sub style="font-size:14px"><b>sajjad rahman</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/shouryam-kumar>
+            <img src=https://avatars.githubusercontent.com/u/75350359?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Shouryam Kumar/>
+            <br />
+            <sub style="font-size:14px"><b>Shouryam Kumar</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
