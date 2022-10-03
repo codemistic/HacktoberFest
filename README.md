@@ -128,7 +128,7 @@ Steps for adding your name below
     </td>
         <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Bindasscodder>
-            <img src=https://avatars.githubusercontent.com/u/100517651?s=400&v=4"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anand Acharya/>
+            <img src=https://avatars.githubusercontent.com/u/100517651?s=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anand Acharya/>
             <br />
             <sub style="font-size:14px"><b>Anand Acharya</b></sub>
         </a>
