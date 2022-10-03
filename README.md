@@ -43,7 +43,7 @@ Steps for adding your name below
     3. Create a Valid Pull Request
     4. Github bot will automatically add your name.
 
-### Maintainers
+## Maintainers (Our Team for HacktoberFest)
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Steps for adding your name below
 </tr>
 </table>
 
-### Top Contributors
+## Top Contributors
 Update in progress....
 <!-- <table>
 <tr>
@@ -100,3 +100,13 @@ Update in progress....
     
 </tr>
 </table> -->
+### Thanks for visiting!
+### Regards,
+### Team CodeMistic
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/codemistic/)](https://www.linkedin.com/company/codemistic/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codemistic/)](https://www.twitter.com/codemistic/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/codemistic.in/)](https://www.instagram.com/codemistic.in/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/codemistic/)](https://www.github.com/codemistic/)
+[![views](https://komarev.com/ghpvc/?username=codemistic&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/codemistic)
+
+<img alt="Custom badge for codemistic Group" src="https://img.shields.io/endpoint?style=for-the-badge&amp;url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fcodemistic">
