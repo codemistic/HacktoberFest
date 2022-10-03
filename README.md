@@ -38,85 +38,10 @@ Join our telegram group for dicussions : [CodeMistic Coding Community Telegram L
 
 Steps for adding your name below
 
-    1. Fork this repo
-    2. Edit `CONTRIBUTERS.md` file
-    3. Add your Name also link your github profile
-    4. Create a pull request
-    5. We will add label to it and merge it ASAP!
-
-
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<table>
-<tr>
-<td align="center"><a href="https://github.com/gantavyamalviya"><kbd><img src="https://avatars3.githubusercontent.com/gantavyamalviya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Gantavya Malviya</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/adarsh-jaiss"><kbd><img src="https://avatars3.githubusercontent.com/adarsh-jaiss?size=400" width="100px;" alt=""/></kbd><br /><sub><b>adarsh-jaiss</b></sub></a><br /><a href="https://github.com/adarsh-jaiss/" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/weebo-ary"><kbd><img src="https://avatars3.githubusercontent.com/weebo-ary?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aryan Bharadwaj</b></sub></a><br /><a href="https://github.com/weebo-ary/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/shouryam-kumar"><kbd><img src="https://avatars3.githubusercontent.com/shouryam-kumar?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shouryam Kumar</b></sub></a><br /><a href="https://github.com/shouryam-kumar/" title="Code"> :computer: </a> </td>
-
-
-<td align="center"><a href="https://github.com/BhaswatiRoy"><kbd><img src="https://avatars3.githubusercontent.com/BhaswatiRoy?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Bhaswati Roy</b></sub></a><br /><a href="https://github.com/BhaswatiRoy/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/404Nikhil"><kbd><img src="https://avatars3.githubusercontent.com/404Nikhil?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Nikhil Dhariwal</b></sub></a><br /><a href="https://github.com/404Nikhil/" title="Code"> :computer: </a> </td>
-
-    
-</tr>
-
- <tr>
-<td align="center"><a href="https://github.com/Arpiiitaaa"><kbd><img src="https://avatars3.githubusercontent.com/Arpiiitaaa?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Arpita Das</b></sub></a><br /><a href="https://github.com/Arpiiitaaa/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/ashu-rb"><kbd><img src="https://avatars3.githubusercontent.com/ashu-rb?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aayush Patel</b></sub></a><br /><a href="https://github.com/ashu-rb/" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/thekalyan001"><kbd><img src="https://avatars3.githubusercontent.com/thekalyan001?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Kalyan Mishra</b></sub></a><br /><a href="https://github.com/thekalyan001/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/Aakash231217"><kbd><img src="https://avatars3.githubusercontent.com/Aakash231217?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aakash Singh</b></sub></a><br /><a href="https://github.com/Aakash231217/" title="Code"> :computer: </a> </td>
-
-
-<td align="center"><a href="https://github.com/vanshavenger"><kbd><img src="https://avatars3.githubusercontent.com/vanshavenger?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vansh Chopra</b></sub></a><br /><a href="https://github.com/vanshavenger/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/Str4nge"><kbd><img src="https://avatars3.githubusercontent.com/Str4nge?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Vishal Sharma</b></sub></a><br /><a href="https://github.com/Str4nge/" title="Code"> :computer: </a> </td>
-    
-
-    
-</tr>
-    
-<td align="center"><a href="https://github.com/shashank-iter"><kbd><img src="https://avatars3.githubusercontent.com/shashank-iter?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shashank Pandey</b></sub></a><br /><a href="https://github.com/shashank-iter/" title="Code"> :computer: </a> </td>
-    
-<td align="center"><a href="https://github.com/YashwanthLakkimsetti"><kbd><img src="https://avatars3.githubusercontent.com/YashwanthLakkimsetti?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Lakkimsetti Sai Yashwanth</b></sub></a><br /><a href="https://github.com/YashwanthLakkimsetti/" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/AkP2809"><kbd><img src="https://avatars3.githubusercontent.com/AkP2809?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Armaan Khan</b></sub></a><br /><a href="https://github.com/AkP2809/" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/Eswari-Priya"><kbd><img src="https://avatars3.githubusercontent.com/Eswari-Priya?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Eswari Priya</b></sub></a><br /><a href="https://github.com/Eswari-Priya" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/shekhar10feb"><kbd><img src="https://avatars3.githubusercontent.com/shekhar10feb?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shekhar Ranjan</b></sub></a><br /><a href="https://github.com/shekhar10feb" title="Code"> :computer: </a> </td>
-
-<td align="center"><a href="https://github.com/baibhav-tiwari"><kbd><img src="https://avatars.githubusercontent.com/u/75496387?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Baibhav Tiwari</b></sub></a><br /><a href="https://github.com/baibhav-tiwari" title="Code"> :computer: </a> </td>
-       
-</tr>
- 
- </tr>
- 
- <td align="center"><a href="https://github.com/sajjad-njr"><kbd><img src="https://avatars3.githubusercontent.com/sajjad-njr?size=400" width="100px;" alt=""/></kbd>
- <br /><sub><b>Sajjad Rahman</b></sub></a><br /><a href="https://github.com/sajjad-njr" title="Code"> :computer: </a> </td>
-
-</tr>
- 
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Contributions of any kind welcome!
-
->    NOTE: if you should be on the list of contributors but we forgot you, don't be shy and let us know!
+    1. Star this repo
+    2. Follow CodeMistic
+    3. Create a Valid Pull Request
+    4. Github bot will automatically add your name.
 
 ### Contributors
 
