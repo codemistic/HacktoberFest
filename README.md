@@ -72,7 +72,7 @@ Steps for adding your name below
 </tr>
 </table>
 
-#### [Top Contributors](src/getTopFollowers.py)
+## Top Contributors
 Update in progress....
 <!-- <table>
 <tr>
