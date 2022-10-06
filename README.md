@@ -108,8 +108,7 @@ Steps for adding your name below
  <br /><sub><b>Sajjad Rahman</b></sub></a><br /><a href="https://github.com/sajjad-njr" title="Code"> :computer: </a> </td>
 
 
- <td align="center"><a href="https://github.com/shubham16sky"><kbd><img src="https://avatars3.githubusercontent.com/shubham16sky?size=400" width="100px;" alt=""/></kbd>
- <br /><sub><b>Pranit Kumar</b></sub></a><br /><a href="https://github.com/shubham16sky" title="Code"> :computer: </a> </td>
+ 
 
 
 
