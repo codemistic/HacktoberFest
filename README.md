@@ -61,10 +61,10 @@ Steps for adding your name below
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/weebo-ary>
-            <img src=https://avatars.githubusercontent.com/u/74592979?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aryan Bhardwaj/>
+        <a href=https://github.com/TKirtan>
+            <img src=https://avatars.githubusercontent.com/u/38884247?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kirtan Kushwah/>
             <br />
-            <sub style="font-size:14px"><b>Aryan Bhardwaj</b></sub>
+            <sub style="font-size:14px"><b>Kirtan Kushwah</b></sub>
         </a>
     </td>
     
