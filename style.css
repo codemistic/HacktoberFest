@@ -1,0 +1,10 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:40px;
+    border-radius:40px;
+    align:center
+}
