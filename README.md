@@ -36,7 +36,7 @@
 
 Join our telegram group for dicussions : [CodeMistic Coding Community Telegram Link](https://telegram.me/codemistic/)
 
-Steps for adding your name below
+Steps for adding your name in top contributors
 
     1. Star this repo
     2. Follow CodeMistic
