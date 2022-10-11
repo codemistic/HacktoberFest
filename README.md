@@ -72,7 +72,7 @@ Steps for adding your name in top contributors
 </tr>
 </table>
 
-## My Followers
+## Top Contributors
 
 Update in progress....
 <!-- <table>
