@@ -38,12 +38,6 @@
 
 Join our telegram group for dicussions : [CodeMistic Coding Community Telegram Link](https://telegram.me/codemistic/)
 
-Steps for adding your name in top contributors
-
-    1. Star this repo
-    2. Follow CodeMistic
-    3. Create a Valid Pull Request
-    4. Github bot will automatically add your name.
 
 ## Maintainers (Our Team for HacktoberFest)
 
@@ -74,9 +68,7 @@ Steps for adding your name in top contributors
 </tr>
 </table>
 
-## Top Contributors
 
-Update in progress....
 <!-- <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
